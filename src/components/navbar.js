@@ -195,7 +195,7 @@ const PrimarySearchAppBar= () =>  {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
-            MUI DASHBOARD
+            DASHBOARD
           </Typography>
           <Search>
             <SearchIconWrapper>
