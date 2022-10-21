@@ -71,7 +71,7 @@ export default function TemporaryDrawer() {
           </ListItem>
           
       </List>
-      <List>
+{/*       <List>
           <ListItem key='Oracle' disablePadding>
             <ListItemButton Link to="oracle">
               <ListItemIcon>
@@ -81,7 +81,7 @@ export default function TemporaryDrawer() {
             </ListItemButton>
           </ListItem>
           
-      </List>
+      </List> */}
       {/* My List Icon */}
     </Box>
   );
